@@ -53,10 +53,10 @@ Follow these steps to set up and work on your project:
 - [ x] Add TL as collaborator on Github.
 - [ x] Clone your OWN version of Repo (Not Lambda's by mistake!).
 - [ x] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
-- [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-- [ ] You are now ready to build this project with your preferred IDE
-- [ ] Implement the project on your Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+- [ x] You are now ready to build this project with your preferred IDE
+- [ x] Implement the project on your Branch, committing changes regularly.
+- [ x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project:
 
@@ -81,7 +81,7 @@ This challenge takes a look at callbacks and closures as well as scope.
 
 ## Task 3: Prototypes
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
-* [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
+* [ x] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
 
 ## Task 4: Classes
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
