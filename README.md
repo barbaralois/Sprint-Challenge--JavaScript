@@ -35,6 +35,7 @@ Edit this document to include your answers after each question. Make sure to lea
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
+I attempted to research this question and I never understood what I found so I have no clue what answer you are expecting here and I have no idea how to answer this question.
 
 5. Why do we need super() in an extended class?
 
@@ -42,10 +43,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
-- [ ] Clone your OWN version of Repo (Not Lambda's by mistake!).
-- [ ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
+- [ x] Create a forked copy of this project.
+- [ x] Add TL as collaborator on Github.
+- [ x] Clone your OWN version of Repo (Not Lambda's by mistake!).
+- [ x] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
 - [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 - [ ] You are now ready to build this project with your preferred IDE
 - [ ] Implement the project on your Branch, committing changes regularly.
