@@ -38,12 +38,12 @@ Closure is the ability for a child function (one run inside of another function)
 
 4. Describe the four rules of the 'this' keyword.
 
-1. Window binding - Window binding is the default if none of the other rules apply. It points to the global object. This does not happen if you're working in strict mode.
-1. Implicit binding - The most common type, implicit binding will point at whatever object is to the left of the period where the function is invoked. This only works for objects with methods.
-1. Explicit binding - 'this' refers to whatever is passed into .call(), .apply(), or .bind(). You are explicitly telling it what to reference.
-1. New binding - When the 'new' keyword is used with a constructor function, a new object is created. 'this' will point at that new object.
+-Window binding - Window binding is the default if none of the other rules apply. It points to the global object. This does not happen if you're working in strict mode.
+-Implicit binding - The most common type, implicit binding will point at whatever object is to the left of the period where the function is invoked. This only works for objects with methods.
+-Explicit binding - 'this' refers to whatever is passed into .call(), .apply(), or .bind(). You are explicitly telling it what to reference.
+-New binding - When the 'new' keyword is used with a constructor function, a new object is created. 'this' will point at that new object.
 
-1. Why do we need super() in an extended class?
+5. Why do we need super() in an extended class?
 
 We need to use super() in an extended class because it is telling the class to reach up and call the constructor in the parent class. This is how we get access to the parent's properties and methods in the child class.
 
